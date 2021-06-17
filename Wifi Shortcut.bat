@@ -1,3 +1,3 @@
 @echo off
 
-netsh wlan connect ssid="Ashfaaq / Abdul" name="Ashfaaq / Abdul" interface="Wi-Fi 2"
+netsh wlan connect ssid="your WiFi ssid goes here" name="also WiFi ssid" interface="Wi-Fi 2"
